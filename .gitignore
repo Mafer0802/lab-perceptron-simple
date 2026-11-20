@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Configuración local
+.env
+
+# VS Code
+.vscode/
